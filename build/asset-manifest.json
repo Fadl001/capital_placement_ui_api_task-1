@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fadl001/capital_placement_ui_api_task-1/static/css/main.2c54a2b5.css",
+    "main.js": "/Fadl001/capital_placement_ui_api_task-1/static/js/main.684f7f50.js",
+    "static/js/787.c66e5efd.chunk.js": "/Fadl001/capital_placement_ui_api_task-1/static/js/787.c66e5efd.chunk.js",
+    "index.html": "/Fadl001/capital_placement_ui_api_task-1/index.html",
+    "main.2c54a2b5.css.map": "/Fadl001/capital_placement_ui_api_task-1/static/css/main.2c54a2b5.css.map",
+    "main.684f7f50.js.map": "/Fadl001/capital_placement_ui_api_task-1/static/js/main.684f7f50.js.map",
+    "787.c66e5efd.chunk.js.map": "/Fadl001/capital_placement_ui_api_task-1/static/js/787.c66e5efd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c54a2b5.css",
+    "static/js/main.684f7f50.js"
+  ]
+}
